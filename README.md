@@ -32,7 +32,7 @@ Next Level Week 4
 
 ## 🔖 Layout
 
-O layout você poderá acessar através [desse link](https://www.figma.com/file/F4jJ9DlbqCZwR6BlgEqKBF/Move.it-1.0-Copy?node-id=160%3A2761).
+O layout você poderá acessar através [desse link](https://www.figma.com/file/FUq2gzfHapX5BtptUq8bA1/Move.it-2.0-(Copy)).
 
 
 ## :memo: Licença
