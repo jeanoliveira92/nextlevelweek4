@@ -16,15 +16,24 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot.png" width="100%">
+### Tela inicial
+  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot.jpg" width="100%">
+### Novo desafio
+  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot2.jpg" width="100%">
+### Level up
+  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot3.jpg" width="100%">
 </p>
 
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- [Javascript]
+- [Typescript]
 - [Node.js](https://nodejs.org/en/)
 - [ReactJs](https://reactjs.org)
+- [NextJS](https://nextjs.org/)
+- [js-cookie](https://github.com/js-cookie/js-cookie)
 
 ## 💻 Projeto
 
