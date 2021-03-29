@@ -16,11 +16,11 @@
 <br>
 
 <p align="center">
-### Tela inicial
+## Tela inicial
   <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot.jpg" width="100%">
-### Novo desafio
+## Novo desafio
   <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot2.jpg" width="100%">
-### Level up
+## Level up
   <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot3.jpg" width="100%">
 </p>
 
