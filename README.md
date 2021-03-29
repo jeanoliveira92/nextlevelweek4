@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NLW4" title="" width="250px" />
+    <img alt="NLW4" title="" src="https://github.com/jeanoliveira92/nextlevelweek4/blob/main/moveit-next/public/logo-full.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="" width="100%">
+  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nextlevelweek4/main/moveit/public/screenshot.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
